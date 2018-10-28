@@ -17,7 +17,6 @@ class mapTest {
 	static void tearDownAfterClass() throws Exception {
 	}
 	
-	//neighbor±ﬂ‘µ≤‚ ‘
 	@Test
 	void testNeighbor_01() {
 		if(MAP.neighbor(0, 0)==0)
